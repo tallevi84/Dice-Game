@@ -1,2 +1,3 @@
 # Dice-Game
-Refresh the page in order to roll the dice. Enjoy!
+A simple, interactive dice game created with JavaScript, HTML, and CSS. Features random dice roll functionality to determine the winner between two players.
+Enjoy!
